@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bili-bonus", "bili-bonus\bili-bonus.csproj", "{ED5D6E4F-7574-4490-85F6-910CAA84B2B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED5D6E4F-7574-4490-85F6-910CAA84B2B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED5D6E4F-7574-4490-85F6-910CAA84B2B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED5D6E4F-7574-4490-85F6-910CAA84B2B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED5D6E4F-7574-4490-85F6-910CAA84B2B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21EC5A4C-8C9B-47B8-9385-34FA2895BE40}
+	EndGlobalSection
+EndGlobal
