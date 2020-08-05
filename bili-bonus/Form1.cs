@@ -91,7 +91,7 @@ namespace bili_bonus
             string oid;
             int dynamicType;
 
-            this.outputStr += "Bilibili评论抽奖工具v2.0 by 天河" + Environment.NewLine + Environment.NewLine + Environment.NewLine + Environment.NewLine;
+            this.outputStr += "Bilibili评论抽奖工具v1.0 by 天河" + Environment.NewLine + Environment.NewLine + Environment.NewLine + Environment.NewLine;
             this.context.Post(updateTxtFunc, this.outputStr);
 
             this.getDynamicParam(dynamicId, out oid, out dynamicType);
